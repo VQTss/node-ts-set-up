@@ -22,9 +22,11 @@ gen
 dist
 build
 node_modules
-
+https
+docs
 #test
 coverage
 
 # Environment
 .env
+
